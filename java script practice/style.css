@@ -1,0 +1,12 @@
+div{
+    height: 300px;
+    width: 300px;
+    align-items: center;
+    overflow: auto;
+    border: 2px solid black;
+    margin: 0px 300px;
+    padding: 0px 10px;
+}
+div h1{
+    text-align: center;
+}
